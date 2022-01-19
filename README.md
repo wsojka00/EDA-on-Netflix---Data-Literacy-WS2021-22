@@ -6,11 +6,9 @@ We try to investigate possible impact of the COVID-19 pandemic on Netflix produc
 
 ## Contributors
 
------------------
-
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/wsojka00"><img src="https://phi-ncu.github.io/images/people/weronika_sojka.jpg.jpg" width="100px;" alt=""/><br /><sub><b>Weronika Sójka</b></sub></a><br /><a href="w.sojka00@gmail.com" title="Contact">💬</a></td>
-   <td align="center"><a href="https://github.com/wsojka00"><img src="https://phi-ncu.github.io/images/people/weronika_sojka.jpg.jpg" width="100px;" alt=""/><br /><sub><b>Weronika Sójka</b></sub></a><br /><a href="w.sojka00@gmail.com" title="Contact">💬</a></td>
+    <td align="center"><a href="https://github.com/wsojka00"><img src="https://phi-ncu.github.io/images/people/weronika_sojka.jpg.jpg" width="100px;" alt=""/><br /><sub><b>Weronika Sójka</b></sub></a><br /><a href="weronika.sojka@student.uni-tuebingen.de" title="Contact">💬</a></td>
+   <td align="center"><a href="https://github.com/gopinath1509"><img src="https://cdn-icons-png.flaticon.com/512/149/149071.png" width="100px;" alt=""/><br /><sub><b>Gopinath Balamurugan</b></sub></a><br /><a href="gopinath.balamurugan@student.uni-tuebingen.de" title="Contact">💬</a></td>
   </tr>
 </table>
