@@ -4,6 +4,11 @@
 
 We try to investigate possible impact of the COVID-19 pandemic on Netflix productions. For this purpose, this repository consists of analysis on `data consisting of all TV Shows and Movies on Netflix`[https://www.kaggle.com/mysarahmadbhat/eda-on-netflix/data] updated every month. When it comes to entertainment, Netflix is one of the most popular services provid- ing streaming media.
 
+## Abstract
+
+------------------
+
+
 ## Contributors
 
 <table>
